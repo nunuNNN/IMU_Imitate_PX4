@@ -1,0 +1,44 @@
+#ifndef _STM32F4_ICM20689_H
+#define _STM32F4_ICM20689_H
+
+#include "stm32f4xx.h"
+
+//ICM20689¼Ä´æÆ÷µØÖ·Ó³Éä
+#define ICM20689_SELF_TEST_X_GYRO  0x00
+#define ICM20689_SELF_TEST_Y_GYRO  0x01
+#define ICM20689_SELF_TEST_Z_GYRO  0x02
+#define ICM20689_SELF_TEST_X_ACCEL 0x0D
+#define ICM20689_SELF_TEST_Y_ACCEL 0x0E
+#define ICM20689_SELF_TEST_Z_ACCEL 0x0F
+#define ICM20689_XG_OFFS_USRH      0x13
+#define ICM20689_XG_OFFS_USRL      0x14
+#define ICM20689_YG_OFFS_USRH      0x15
+#define ICM20689_YG_OFFS_USRL      0x16
+#define ICM20689_ZG_OFFS_USRH      0x17
+#define ICM20689_ZG_OFFS_USRL      0x18
+#define ICM20689_SMPLRT_DIV        0x19
+#define ICM20689_CONFIG            0x1A
+#define ICM20689_GYRO_CONFIG       0x1B
+#define ICM20689_ACCEL_CONFIG      0x1C
+#define ICM20689_ACCEL_CONFIG_2    0x1D
+
+#define ICM20689_ACCEL_XOUT_H      0x3B
+#define ICM20689_ACCEL_XOUT_L      0x3C
+#define ICM20689_ACCEL_YOUT_H      0x3D
+#define ICM20689_ACCEL_YOUT_L      0x3E
+#define ICM20689_ACCEL_ZOUT_H      0x3F
+#define ICM20689_ACCEL_ZOUT_L      0x40
+#define ICM20689_TEMP_OUT_H        0x41
+#define ICM20689_TEMP_OUT_L        0x42
+#define ICM20689_GYRO_XOUT_H       0x43
+#define ICM20689_GYRO_XOUT_L       0x44
+#define ICM20689_GYRO_YOUT_H       0x45
+#define ICM20689_GYRO_YOUT_L       0x46
+#define ICM20689_GYRO_ZOUT_H       0x47
+#define ICM20689_GYRO_ZOUT_L       0x48
+
+#define ICM20689_PWR_MGMT_1        0x6B
+#define ICM20689_PWR_MGMT_2        0x6C
+#define ICM20689_WHO_AM_I          0x75
+
+#endif

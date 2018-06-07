@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC Pin=-1
+Added Component: Designator=BMI055(BMI055)
+Added Pin To Net: NetName=GND Pin=BMI055-2
+Added Pin To Net: NetName=VCC Pin=BMI055-3
+Added Pin To Net: NetName=GND Pin=BMI055-4
+Added Pin To Net: NetName=GND Pin=BMI055-6
+Added Pin To Net: NetName=GND Pin=BMI055-7
+Added Pin To Net: NetName=MISO Pin=BMI055-10
+Added Pin To Net: NetName=VCC Pin=BMI055-11
+Added Pin To Net: NetName=MISO Pin=BMI055-15
+Added Member To Class: ClassName=IMU_ld Member=Component BMI055 BMI-055
+Added Member To Class: ClassName=IMU_ld Member=Component C2 
+Added Member To Class: ClassName=IMU_ld Member=Component  Header10*2
+Added Room: Name=IMU_ld

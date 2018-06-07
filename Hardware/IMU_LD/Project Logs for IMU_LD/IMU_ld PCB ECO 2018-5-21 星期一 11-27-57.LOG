@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VCC Pin=-1
+Removed Pin From Net: NetName=CS_GYRO Pin=BMI055-5
+Removed Pin From Net: NetName=SCK Pin=BMI055-8
+Removed Pin From Net: NetName=MOSI Pin=BMI055-9
+Removed Pin From Net: NetName=CS_ACCEL Pin=BMI055-14
+Change Component Footprint: Designator=C2 Old Footprint=0402-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C3 Old Footprint=0402-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C4 Old Footprint=0402-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C5 Old Footprint=0402-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C6 Old Footprint=0402-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C7 Old Footprint=0402-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C8 Old Footprint=0402-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C9 Old Footprint=0402-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C11 Old Footprint=0402-CAP New Footprint=0603-CAP
+Added Member To Class: ClassName=IMU_ld Member=Component  Header10*2
+Added Room: Name=IMU_ld

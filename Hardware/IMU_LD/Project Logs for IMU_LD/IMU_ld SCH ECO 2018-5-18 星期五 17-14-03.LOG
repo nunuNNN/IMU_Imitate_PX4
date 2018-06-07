@@ -1,0 +1,3 @@
+Remove Pin=H1-1 From Net=VCC_5V
+Change Component Designator: OldDesignator=H1 NewDesignator=
+Change Component Designator: OldDesignator=U1 NewDesignator=ICM20689

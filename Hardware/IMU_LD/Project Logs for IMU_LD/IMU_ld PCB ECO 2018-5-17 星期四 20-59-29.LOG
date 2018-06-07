@@ -1,0 +1,103 @@
+Added Component: Designator=BMI055(BMI055)
+Added Component: Designator=C1(0805-CAP)
+Added Component: Designator=C2(0402-CAP)
+Added Component: Designator=C3(0402-CAP)
+Added Component: Designator=C4(0402-CAP)
+Added Component: Designator=C5(0402-CAP)
+Added Component: Designator=C6(0402-CAP)
+Added Component: Designator=C7(0402-CAP)
+Added Component: Designator=C8(0402-CAP)
+Added Component: Designator=C9(0402-CAP)
+Added Component: Designator=C10(0805-CAP)
+Added Component: Designator=C11(0402-CAP)
+Added Component: Designator=D1(0805-LED)
+Added Component: Designator=H1(HDR1X10)
+Added Component: Designator=IST8310(IST8310)
+Added Component: Designator=L1(R0603)
+Added Component: Designator=R1(0402-Res)
+Added Component: Designator=R2(0402-Res)
+Added Component: Designator=U1(QFN24)
+Added Pin To Net: NetName=GND Pin=BMI055-2
+Added Pin To Net: NetName=VCC Pin=BMI055-3
+Added Pin To Net: NetName=GND Pin=BMI055-4
+Added Pin To Net: NetName=GND Pin=BMI055-6
+Added Pin To Net: NetName=GND Pin=BMI055-7
+Added Pin To Net: NetName=MISO Pin=BMI055-10
+Added Pin To Net: NetName=VCC Pin=BMI055-11
+Added Pin To Net: NetName=MISO Pin=BMI055-15
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VCC Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VCC Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=VCC Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VCC Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VCC Pin=C11-2
+Added Pin To Net: NetName=VCC Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=VCC_5V Pin=H1-1
+Added Pin To Net: NetName=SCK Pin=H1-2
+Added Pin To Net: NetName=MOSI Pin=H1-3
+Added Pin To Net: NetName=MISO Pin=H1-4
+Added Pin To Net: NetName=CS_ICM Pin=H1-5
+Added Pin To Net: NetName=CS_ACCEL Pin=H1-6
+Added Pin To Net: NetName=CS_GYRO Pin=H1-7
+Added Pin To Net: NetName=SCL Pin=H1-8
+Added Pin To Net: NetName=SDA Pin=H1-9
+Added Pin To Net: NetName=GND Pin=H1-10
+Added Pin To Net: NetName=SCL Pin=IST8310-1
+Added Pin To Net: NetName=VCC Pin=IST8310-2
+Added Pin To Net: NetName=GND Pin=IST8310-9
+Added Pin To Net: NetName=NetC6_2 Pin=IST8310-10
+Added Pin To Net: NetName=GND Pin=IST8310-11
+Added Pin To Net: NetName=VCC Pin=IST8310-13
+Added Pin To Net: NetName=SDA Pin=IST8310-16
+Added Pin To Net: NetName=VCC Pin=L1-1
+Added Pin To Net: NetName=NetC4_2 Pin=L1-2
+Added Pin To Net: NetName=SCL Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-8
+Added Pin To Net: NetName=MOSI Pin=U1-9
+Added Pin To Net: NetName=NetC3_2 Pin=U1-10
+Added Pin To Net: NetName=VCC Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=CS_ICM Pin=U1-22
+Added Pin To Net: NetName=SCK Pin=U1-23
+Added Pin To Net: NetName=MISO Pin=U1-24
+Added Member To Class: ClassName=IMU_ld Member=Component BMI055 BMI-055
+Added Member To Class: ClassName=IMU_ld Member=Component C1 
+Added Member To Class: ClassName=IMU_ld Member=Component C2 
+Added Member To Class: ClassName=IMU_ld Member=Component C3 
+Added Member To Class: ClassName=IMU_ld Member=Component C4 
+Added Member To Class: ClassName=IMU_ld Member=Component C5 
+Added Member To Class: ClassName=IMU_ld Member=Component C6 
+Added Member To Class: ClassName=IMU_ld Member=Component C7 
+Added Member To Class: ClassName=IMU_ld Member=Component C8 
+Added Member To Class: ClassName=IMU_ld Member=Component C9 
+Added Member To Class: ClassName=IMU_ld Member=Component C10 
+Added Member To Class: ClassName=IMU_ld Member=Component C11 
+Added Member To Class: ClassName=IMU_ld Member=Component D1 
+Added Member To Class: ClassName=IMU_ld Member=Component H1 Header10*2
+Added Member To Class: ClassName=IMU_ld Member=Component IST8310
+Added Member To Class: ClassName=IMU_ld Member=Component L1 150RFB
+Added Member To Class: ClassName=IMU_ld Member=Component R1 
+Added Member To Class: ClassName=IMU_ld Member=Component R2 
+Added Member To Class: ClassName=IMU_ld Member=Component U1 ICM-20689
+Added Room: Name=IMU_ld
